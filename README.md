@@ -38,14 +38,14 @@
 ### Lecture 6: Data Structures II
 - **Topic**: Dictionaries and Sets
   - Creating and accessing dictionaries
-  - Common dictionary methods (`get()`, `keys()`, `values()`)
+  - //Common dictionary methods (`get()`, `keys()`, `values()`)
   - Creating sets, performing set operations (union, intersection)
 
 ### Lecture 7: File Handling
 - **Topic**: Working with Files
   - Opening and reading files
   - Writing to files
-  - Using `with` for file handling
+  - //Using `with` for file handling
 
 ### Lecture 8: Error Handling
 - **Topic**: Handling Exceptions
