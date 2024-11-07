@@ -68,6 +68,7 @@
 - **Topic**: Using External Libraries
   - Importing and using modules (math, random)
   - Installing libraries using `pip`
+  - Creating own modules
 
 ### Lecture 12: Final Project
 - **Topic**: Putting it All Together
