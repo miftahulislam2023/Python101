@@ -75,3 +75,8 @@
   - Design and implement a small project based on the concepts learned during the course.
  
   - 
+1. Calculator 
+2. Guess the number
+3. Unit converter (must)
+4. To-do-list (must)
+5. Statistics calculator - Mean, mode, median (must)
